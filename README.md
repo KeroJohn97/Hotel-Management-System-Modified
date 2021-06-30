@@ -1,3 +1,7 @@
+# Credits to Shourya Jaiswal
+Github Link: https://github.com/shouryaj98/Hotel-Management-Project-Java/
+
+# Explanation from Shourya Jaiswal
 # Hotel-Management-OOP-Project
 
 This is a Hotel Management tool which can be used to manage
